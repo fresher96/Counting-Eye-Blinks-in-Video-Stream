@@ -1,4 +1,4 @@
-# Counting Eye Blinks in a Video Stream
+# Counting Eye Blinks in Video Stream
 Python notebook that detects eye blinks of a person in a video stream using dlib and opencv.
 
 
@@ -22,7 +22,7 @@ where:
 - fps: frame per second rate. In case input file is specified the fps will be derived from the input. Otherwise, this value will be used. Default value is 10.
 - dlib: the path to dlib's pre-trained facial landmark detector ([download link](https://drive.google.com/open?id=19Xz-Ly2LXofgpUGt-AHFTyM71z_RvzDL)).
 
-## Demo
+## Demos
 - [Online](https://i.imgur.com/DoV0fKy.mp4) (using webcam)
 - [Offline](https://imgur.com/ALyi4b3.mp4) (using a video file)
 
